@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NirmalRajput
 - 👀 I’m interested in deep learning and artificial intelligence
-- 🌱 I’m currently learning the mechanisms of audio sppech trabslation and integration with the huma brain.
+- 🌱 I’m currently learning the mechanisms of audio speech translation and integration with the human brain.
 - 💞️ I’m looking to collaborate on new technologies in the area of artificial neural systems.
 - 📫 You can reach to me by dropping a mail on nirmalrajput015@gmail.com
 
